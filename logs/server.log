@@ -1,17 +1,7 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [248] using StatReload
-INFO:     Started server process [250]
+INFO:     Started reloader process [299] using StatReload
+INFO:     Started server process [301]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:51404 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:51408 - "GET /api/ai/advisor?workspace_id= HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51416 - "GET /api/workspaces/demo/summary?mode=home HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54518 - "GET /api/workspaces/demo/summary?mode=home HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54518 - "GET /api/ai/advisor?workspace_id= HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54532 - "GET /api/workspaces/demo/summary?mode=home HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54558 - "GET /api/workspaces/demo/summary?mode=home HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54544 - "GET /api/ai/advisor?workspace_id= HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36764 - "GET /api/workspaces/demo/summary?mode=social HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36764 - "GET /api/workspaces/demo/summary?mode=home HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36764 - "GET /api/workspaces/demo/summary?mode=company HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42236 - "HEAD / HTTP/1.1" 405 Method Not Allowed
